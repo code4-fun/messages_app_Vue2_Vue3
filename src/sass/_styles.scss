@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+// disable default
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Raleway', sans-serif;
+}
+input {
+  outline: none
+}
+// disable default
+
+.app {
+  padding: 20px;
+  margin-top: 47px;
+}
+.post {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  border: 1px solid #007bff;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
+
