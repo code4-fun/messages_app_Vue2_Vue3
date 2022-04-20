@@ -1,6 +1,7 @@
 ![alt text](preview.gif)
 
 ### Описание
+Приложение доступно по ссылке: https://ignal1.github.io/vue3_messages/
 
 Приложение получает сообщения с https://jsonplaceholder.typicode.com/posts и выводит их различными способами.
 
